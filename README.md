@@ -27,7 +27,7 @@ The app displays the chosen location on a dynamic map interface.
 ![Map Fragment](/SSMapView.png)
 
 **Demo**
-![App Demo](clip.mp4)
+![App Demo](clip.gif)
 
 
 Course: CSC364 – Mobile App Development
