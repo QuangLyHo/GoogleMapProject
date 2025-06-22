@@ -20,7 +20,7 @@ The app displays the chosen location on a dynamic map interface.
 - APIs: Google Maps API
 **UI Components**: Android Fragments, RecyclerView, EditText, Buttons
 
-**Demo**
+**Demo**\n
 ![App Demo](clip.gif)
 
 **Screenshots**
