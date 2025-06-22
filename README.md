@@ -20,8 +20,15 @@ The app displays the chosen location on a dynamic map interface.
 - APIs: Google Maps API
 **UI Components**: Android Fragments, RecyclerView, EditText, Buttons
 
-Screenshots
-(Add screenshots here of the home fragment and map fragment in action.)
+**Screenshots**
+**List Fragment**
+![Home Fragment](/SSListView.png)
+**Map Fragment**
+![Map Fragment](/SSMapView.png)
+
+**Demo**
+![App Demo](clip.mp4)
+
 
 Course: CSC364 – Mobile App Development
 
